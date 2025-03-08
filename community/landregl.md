@@ -9,7 +9,7 @@
 💡 *Interesses*: Muito atraído por novas tecnologias, atualmente por IA, ainda iniciante.  
  
 # Vasta experiência em TI, em fase profissional anterior ao atual cargo:
-##-manutenção e check-up de hardware
+## -manutenção e check-up de hardware
 ## -instalação de sistemas operacionais desktop e server
 ## -lógica de programação
 ## -desenvolvimento e implantação de sistema ERP
