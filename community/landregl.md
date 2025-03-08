@@ -1,6 +1,6 @@
 # Olá, eu sou Luis André, porém sempre chamado apenas por André. 
 
-Bem-vindo ao meu perfil do GitHub!
+# Bem-vindos(as) ao meu perfil do GitHub!
 
 ## Sobre mim
 
