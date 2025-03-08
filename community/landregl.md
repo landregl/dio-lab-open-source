@@ -18,9 +18,6 @@ Bem-vindo ao meu perfil do GitHub!
 # suporte ao usuário
 # administração de banco de dados Microsoft SQL Server 
 
-## Enfim, apesar de muitos anos fora da área de TI, está sendo muito gratificante, empolgante e prazeroso voltar ao estudos
-nessa área que tanto gosto e que muita realização profissional me proporcionou. Está interessante rever que apesar das novas 
-tecnologias que sempre despontam, tudo se conecta nos fundamentos básicos: pessoas, procedimentos, regras de negócio, hardware,
-software, comunicação, processos...  
+## Enfim, apesar de muitos anos fora da área de TI, está sendo muito gratificante, empolgante e prazeroso voltar ao estudos  nessa área que tanto gosto e que muita realização profissional me proporcionou. Está interessante rever que apesar das novas tecnologias que sempre despontam, tudo se conecta nos fundamentos básicos: pessoas, procedimentos, regras de negócio, hardware,software, comunicação, processos...  
 
 
