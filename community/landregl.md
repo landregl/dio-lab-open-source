@@ -2,7 +2,7 @@
 
 # Bem-vindos(as) ao meu perfil do GitHub!
 
-## Sobre mim
+## Sobre eu
 
 🎓 *Formação*:  Administração de Empresas pela UFRGS (2005), e Especialização em Gestão e Governança Pública (2023).  
 💼 *Profissão*: Desde 2009, Servidor Público do RS, em cargo voltado à minha formação acadêmica.  
